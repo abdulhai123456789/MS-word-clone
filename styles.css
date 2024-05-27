@@ -1,0 +1,32 @@
+#title{
+    padding: 10px;
+    border-bottom: 2px solid wheat;
+    margin-bottom: 10px;
+}
+.controls{
+    display: flex;
+    justify-content: space-around;
+}
+.main-controls{
+    display: flex;
+}
+.control-btn-container{
+    display: flex;
+}
+.control-btn{
+    margin-top: -10px;
+    margin-left: 8px;
+    width: 50px;
+    height: 100%;
+}
+#filename-input{
+    margin-left: 10px;
+}
+#contant{
+    padding: 20px;
+    border: 2px solid black;
+    box-shadow: 0 0 5 0 rgb(5, 5, 5);
+    outline: none;
+    min-height: 300px;
+    margin: 3px;
+}
